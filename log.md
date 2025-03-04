@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -28,3 +28,17 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 0: 
+
+**Today's progress**:
+
+**Link to work**:
+-->
+ 
+ ### Day 0: 4th March 2025
+
+ **Today's progress**: Learnt about DOM and built a basic ToDo app 
+
+ **Thoughts**: I do seem to understand things for basic things now. I am not struggling as of now since it's basic concepts which I am learning now. 
+
+ **Link to work**: will update once I built a good UI for it.  
