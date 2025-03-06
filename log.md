@@ -32,6 +32,8 @@
 
 **Today's progress**:
 
+**Thoughts**:
+
 **Link to work**:
 -->
  
@@ -42,3 +44,11 @@
  **Thoughts**: I do seem to understand things for basic things now. I am not struggling as of now since it's basic concepts which I am learning now. 
 
  **Link to work**: will update once I built a good UI for it.  
+
+### Day 1: 6th March 2025 
+
+**Today's progress**: Learnt about DOM and completed the Todo app
+
+**Thoughts**: I am understanding things but there are few parts where I get stuck although I was near the solution it was me not knowing few things on how to implement which was stopping me apart from that there was no problem in learning new things. 
+
+**Link to work**: will update once I built a good UI for it
