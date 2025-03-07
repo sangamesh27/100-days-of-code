@@ -52,3 +52,11 @@
 **Thoughts**: I am understanding things but there are few parts where I get stuck although I was near the solution it was me not knowing few things on how to implement which was stopping me apart from that there was no problem in learning new things. 
 
 **Link to work**: will update once I built a good UI for it
+
+### Day 2: 
+
+**Today's progress**:Learnt about Node.js,Bun,npm and a little bit about DNS
+
+**Thoughts**:I haven't coded much today but did understood about javaScript runtime and about engines also studied a bit about what DNS are and how they help us reaching the servers.  
+
+**Link to work**: since I haven't coded today there is no link to the project
