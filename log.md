@@ -53,7 +53,7 @@
 
 **Link to work**: will update once I built a good UI for it
 
-### Day 2: 
+### Day 2: 7th March 2025
 
 **Today's progress**:Learnt about Node.js,Bun,npm and a little bit about DNS
 
