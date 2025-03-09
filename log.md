@@ -60,3 +60,19 @@
 **Thoughts**:I haven't coded much today but did understood about javaScript runtime and about engines also studied a bit about what DNS are and how they help us reaching the servers.  
 
 **Link to work**: since I haven't coded today there is no link to the project
+
+### Day 3: 8th March 2025
+
+**Today's progress**: Continued learning about Node.js and librareies 
+
+**Thoughts**:Haven't coded much but learnt about libraries today and how they can be used.
+
+**Link to work**:since I haven't coded today there is no link to the project
+
+### Day 4: 9th March 2025
+
+**Today's progress**: Today I learnt  about building a CLI using the commander library.
+
+**Thoughts**:I did understood how to build one should rebuilt it again to check how much I understand and how much more practice I need over things also should start with assignments from tomorrow
+
+**Link to work**:No link to CLI yet 
