@@ -76,3 +76,12 @@
 **Thoughts**:I did understood how to build one should rebuilt it again to check how much I understand and how much more practice I need over things also should start with assignments from tomorrow
 
 **Link to work**:No link to CLI yet 
+
+### Day 5:10th March 2025 
+
+**Today's progress**:Today I learnt about HTTP servers today most of it was theory.
+
+**Thoughts**:Learnt a theory about HTTP servers and understood abouot Methods, ports, response and status codes theory part was easy to understand until now as I knew a few things about it before hand 
+
+**Link to work: No link to the work.
+
