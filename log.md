@@ -85,3 +85,12 @@
 
 **Link to work: No link to the work.
 
+### Day 6:11th March 2025 
+
+**Today's progress**:Continued learning about the HTTP servers and completed previous assignments which I didn't do.
+
+**Thoughts**:I do think I need to practice more and more over things and learn things. also I need to dedicate more time over time. 
+
+**Link to work**: No link to work yet.
+
+
