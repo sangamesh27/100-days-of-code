@@ -93,4 +93,13 @@
 
 **Link to work**: No link to work yet.
 
+### Day 7: 12th March 2025 
+
+**Today's progress**: Done few assignments realted to html and css. 
+
+**Thoughts**:wasn't much produtive but did understood few new concepts while doing assignments
+
+**Link to work**: No link to work.
+
+
 
