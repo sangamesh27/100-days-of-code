@@ -101,5 +101,20 @@
 
 **Link to work**: No link to work.
 
+### Day 8 13th March 2025: 
+
+**Today's progress**: Have been doing assignments realted to html css and a bit of js 
+
+**Thoughts**: Learning about new things about css of how to use properties and how they work 
+
+**Link to work**: no link to work.
+
+### Day 9 14th March 2025: 
+
+**Today's progress**: Continued learning by doing assignments by the 100xdevs team
+
+**Thoughts**: learning new things about the things in js and how to use them and their work flow.
+
+**Link to work**: no link to work.
 
 
